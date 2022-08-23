@@ -49,4 +49,3 @@ with open("data.json", "w") as f:
     f.write(json_data)
 
 driver.quit()  # close the browser window after the scraping is done
-
